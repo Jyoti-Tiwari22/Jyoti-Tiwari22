@@ -71,6 +71,7 @@ img{
     width: 100%;
     height: 100%;
     transition: all 0.3s ease;
+    top: -2px;
 }
 .hover-in-shadow:hover:after{
     box-shadow: var(--inner-shadow);
